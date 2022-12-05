@@ -20,9 +20,11 @@
 
 
 ![image](https://user-images.githubusercontent.com/119733911/205501575-1c5b212d-6fb8-4b4a-aa4f-91a00cf279b6.png)
+
 Рисунок 18.1 Настройка объектов
 
 ![image](https://user-images.githubusercontent.com/119733911/205501610-f8c5138c-3966-474e-ad1e-a2fccaa77420.png)
+
 Рисунок 18.2 Вид из окна Game
 
 ![image](https://user-images.githubusercontent.com/119409903/205281665-28026655-b80d-4894-9884-53f365b38976.png)
